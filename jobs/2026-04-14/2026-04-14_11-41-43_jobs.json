@@ -1,0 +1,87 @@
+{
+  "searchInfo": {
+    "keywords": "Software Engineer",
+    "location": "Remote",
+    "searchType": "keyword",
+    "timestamp": "2026-04-14T11:41:43.009Z",
+    "totalJobs": 5
+  },
+  "cv": null,
+  "jobs": [
+    {
+      "id": "4370317193",
+      "title": "Software Engineer (New Grads) - San Francisco",
+      "company": "Giga",
+      "location": "San Francisco, CA",
+      "description": "Software Engineer (New Grads) - San Francisco position at Giga in San Francisco, CA. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grads-san-francisco-at-giga-4370317193?position=1&amp;pageNum=0&amp;refId=3%2BGjjcW6CKUc9ArNtopeuA%3D%3D&amp;trackingId=QYNp5jeDPDYY9f9BXkQ4UA%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": false,
+      "easyApply": false
+    },
+    {
+      "id": "4328991043",
+      "title": "Software Engineer, Backend",
+      "company": "Tinder",
+      "location": "Los Angeles, CA",
+      "description": "Software Engineer, Backend position at Tinder in Los Angeles, CA. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991043?position=2&amp;pageNum=0&amp;refId=3%2BGjjcW6CKUc9ArNtopeuA%3D%3D&amp;trackingId=mj%2F%2Fjp1iZRZj482%2BWBsa7g%3D%3D",
+      "postedAt": "2026-04-09",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": false,
+      "easyApply": false
+    },
+    {
+      "id": "4328991042",
+      "title": "Software Engineer, Backend",
+      "company": "Tinder",
+      "location": "Palo Alto, CA",
+      "description": "Software Engineer, Backend position at Tinder in Palo Alto, CA. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991042?position=3&amp;pageNum=0&amp;refId=3%2BGjjcW6CKUc9ArNtopeuA%3D%3D&amp;trackingId=%2Fdx6kxMIhcQgOQx%2F2VZYHA%3D%3D",
+      "postedAt": "2026-04-10",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": false,
+      "easyApply": false
+    },
+    {
+      "id": "4401372842",
+      "title": "Software Engineer, Frontend",
+      "company": "HIFI",
+      "location": "New York, NY",
+      "description": "Software Engineer, Frontend position at HIFI in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-hifi-4401372842?position=4&amp;pageNum=0&amp;refId=3%2BGjjcW6CKUc9ArNtopeuA%3D%3D&amp;trackingId=SDR9EM3kp0xs%2B4RPeyRZ5w%3D%3D",
+      "postedAt": "2026-04-13",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": false,
+      "easyApply": false
+    },
+    {
+      "id": "4297642437",
+      "title": "Software Engineer - New Grad",
+      "company": "Scale AI",
+      "location": "San Francisco Bay Area",
+      "description": "Software Engineer - New Grad position at Scale AI in San Francisco Bay Area. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-scale-ai-4297642437?position=5&amp;pageNum=0&amp;refId=3%2BGjjcW6CKUc9ArNtopeuA%3D%3D&amp;trackingId=VZVn%2BhzIAsXuJxIyeCqKKQ%3D%3D",
+      "postedAt": "2026-04-10",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": false,
+      "easyApply": false
+    }
+  ]
+}
