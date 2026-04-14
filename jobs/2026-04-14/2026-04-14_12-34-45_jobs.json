@@ -1,0 +1,108 @@
+{
+  "searchInfo": {
+    "keywords": "data science",
+    "location": "new york ",
+    "searchType": "keyword",
+    "timestamp": "2026-04-14T12:34:45.028Z",
+    "totalJobs": 5
+  },
+  "cv": {
+    "name": "Unknown",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "Go",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "REST",
+      "HTML",
+      "CSS",
+      "Flask"
+    ],
+    "experienceCount": 0
+  },
+  "jobs": [
+    {
+      "id": "4400041203",
+      "title": "Computational Biologist - Fully Remote",
+      "company": "Mercor",
+      "location": "New York, NY",
+      "description": "Computational Biologist - Fully Remote position at Mercor in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/computational-biologist-fully-remote-at-mercor-4400041203?position=1&amp;pageNum=0&amp;refId=6oBi7RCeSfjvsJzsvJtKIA%3D%3D&amp;trackingId=FgXyIxaItaej9P4pmecL8A%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "parttime",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": true,
+      "easyApply": false
+    },
+    {
+      "id": "4400040221",
+      "title": "Computational Biologist - Fully Remote",
+      "company": "Mercor",
+      "location": "New York, NY",
+      "description": "Computational Biologist - Fully Remote position at Mercor in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/computational-biologist-fully-remote-at-mercor-4400040221?position=2&amp;pageNum=0&amp;refId=6oBi7RCeSfjvsJzsvJtKIA%3D%3D&amp;trackingId=gToebLHEjOA8ePxiBLjSew%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "parttime",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": true,
+      "easyApply": false
+    },
+    {
+      "id": "4400045167",
+      "title": "AI Researcher",
+      "company": "Mercor",
+      "location": "New York, NY",
+      "description": "AI Researcher position at Mercor in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/ai-researcher-at-mercor-4400045167?position=3&amp;pageNum=0&amp;refId=6oBi7RCeSfjvsJzsvJtKIA%3D%3D&amp;trackingId=PEHB8nFWs76tUO8GY6bQag%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "parttime",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [
+        "AI"
+      ],
+      "remote": true,
+      "easyApply": false
+    },
+    {
+      "id": "4400034308",
+      "title": "Machine Learning Researcher | Upto $75/hr Hourly",
+      "company": "Mercor",
+      "location": "New York, NY",
+      "description": "Machine Learning Researcher | Upto $75/hr Hourly position at Mercor in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/machine-learning-researcher-upto-%2475-hr-hourly-at-mercor-4400034308?position=4&amp;pageNum=0&amp;refId=6oBi7RCeSfjvsJzsvJtKIA%3D%3D&amp;trackingId=PeqxVhRE%2F6GVivRrld4zyA%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "parttime",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": true,
+      "easyApply": false
+    },
+    {
+      "id": "4400041215",
+      "title": "Corporate Compliance Officer",
+      "company": "Mercor",
+      "location": "New York, NY",
+      "description": "Corporate Compliance Officer position at Mercor in New York, NY. Search for more details on LinkedIn.",
+      "url": "https://www.linkedin.com/jobs/view/corporate-compliance-officer-at-mercor-4400041215?position=5&amp;pageNum=0&amp;refId=6oBi7RCeSfjvsJzsvJtKIA%3D%3D&amp;trackingId=YpyGvuD3meO1GML3OOZpWA%3D%3D",
+      "postedAt": "2026-04-14",
+      "employmentType": "parttime",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [],
+      "remote": true,
+      "easyApply": false
+    }
+  ]
+}
