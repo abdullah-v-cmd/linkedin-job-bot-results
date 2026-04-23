@@ -1,0 +1,347 @@
+{
+  "searchInfo": {
+    "keywords": "ai engineer",
+    "location": "new york ",
+    "searchType": "cv",
+    "timestamp": "2026-04-23T08:31:40.545Z",
+    "totalJobs": 10
+  },
+  "cv": {
+    "name": "Unknown",
+    "skills": [
+      "Python",
+      "JavaScript",
+      "Java",
+      "C++",
+      "Go",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "REST",
+      "HTML",
+      "CSS",
+      "Flask"
+    ],
+    "experienceCount": 0
+  },
+  "jobs": [
+    {
+      "id": "mock_1776932982729_0",
+      "title": "AI engineer",
+      "company": "Airbnb",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented AI engineer to join Airbnb. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 5+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-23T08:29:42.729Z",
+      "employmentType": "Contract",
+      "experienceLevel": "Entry",
+      "industry": "Fintech",
+      "skills": [
+        "Python",
+        "React",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ],
+      "salary": "$164k - $154k",
+      "remote": true,
+      "easyApply": true,
+      "matchScore": 36,
+      "matchReasons": [
+        "1 matching skills: Python"
+      ],
+      "missingSkills": [
+        "React",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_1",
+      "title": "Senior AI engineer",
+      "company": "HubSpot",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented Senior AI engineer to join HubSpot. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 3+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-21T08:29:42.729Z",
+      "employmentType": "Contract",
+      "experienceLevel": "Senior",
+      "industry": "E-commerce",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kubernetes",
+        "SQL",
+        "Azure"
+      ],
+      "salary": "$82k - $179k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 34,
+      "matchReasons": [
+        "2 matching skills: Java, SQL"
+      ],
+      "missingSkills": [
+        "Spring Boot",
+        "Kubernetes",
+        "Azure"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_4",
+      "title": "AI engineer (Hybrid)",
+      "company": "Slack",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented AI engineer (Hybrid) to join Slack. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 7+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-20T08:29:42.729Z",
+      "employmentType": "Full-time",
+      "experienceLevel": "Senior",
+      "industry": "Technology",
+      "skills": [
+        "Data Science",
+        "ML",
+        "TensorFlow",
+        "Python",
+        "Spark"
+      ],
+      "salary": "$140k - $235k",
+      "remote": true,
+      "easyApply": true,
+      "matchScore": 34,
+      "matchReasons": [
+        "2 matching skills: Python, TensorFlow"
+      ],
+      "missingSkills": [
+        "Data Science",
+        "ML",
+        "Spark"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_6",
+      "title": "Staff AI engineer",
+      "company": "Lyft",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented Staff AI engineer to join Lyft. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 5+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-21T08:29:42.729Z",
+      "employmentType": "Full-time",
+      "experienceLevel": "Senior",
+      "industry": "Healthcare",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "Kubernetes",
+        "SQL",
+        "Azure"
+      ],
+      "salary": "$140k - $181k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 34,
+      "matchReasons": [
+        "2 matching skills: Java, SQL"
+      ],
+      "missingSkills": [
+        "Spring Boot",
+        "Kubernetes",
+        "Azure"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_9",
+      "title": "AI engineer III",
+      "company": "Oracle",
+      "location": "Remote - New york",
+      "description": "We are looking for a talented AI engineer III to join Oracle. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 3+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=Remote%20-%20New%20york",
+      "postedAt": "2026-04-18T08:29:42.729Z",
+      "employmentType": "Full-time",
+      "experienceLevel": "Director",
+      "industry": "Software",
+      "skills": [
+        "Data Science",
+        "ML",
+        "TensorFlow",
+        "Python",
+        "Spark"
+      ],
+      "salary": "$80k - $172k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 34,
+      "matchReasons": [
+        "2 matching skills: Python, TensorFlow"
+      ],
+      "missingSkills": [
+        "Data Science",
+        "ML",
+        "Spark"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_2",
+      "title": "Lead AI engineer",
+      "company": "Twilio",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented Lead AI engineer to join Twilio. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 3+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-18T08:29:42.729Z",
+      "employmentType": "Full-time",
+      "experienceLevel": "Mid-Senior",
+      "industry": "E-commerce",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "Redis",
+        "GraphQL"
+      ],
+      "salary": "$174k - $197k",
+      "remote": true,
+      "easyApply": true,
+      "matchScore": 26,
+      "matchReasons": [
+        "1 matching skills: JavaScript"
+      ],
+      "missingSkills": [
+        "Node.js",
+        "MongoDB",
+        "Redis",
+        "GraphQL"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_3",
+      "title": "AI engineer - Remote",
+      "company": "Figma",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented AI engineer - Remote to join Figma. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 3+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-19T08:29:42.729Z",
+      "employmentType": "Contract",
+      "experienceLevel": "Senior",
+      "industry": "E-commerce",
+      "skills": [
+        "Go",
+        "gRPC",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD"
+      ],
+      "salary": "$85k - $200k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 26,
+      "matchReasons": [
+        "1 matching skills: Go"
+      ],
+      "missingSkills": [
+        "gRPC",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_5",
+      "title": "Junior AI engineer",
+      "company": "Adobe",
+      "location": "New york",
+      "description": "We are looking for a talented Junior AI engineer to join Adobe. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 6+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york",
+      "postedAt": "2026-04-23T08:29:42.729Z",
+      "employmentType": "Full-time",
+      "experienceLevel": "Senior",
+      "industry": "E-commerce",
+      "skills": [
+        "Python",
+        "React",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ],
+      "salary": "$145k - $174k",
+      "remote": false,
+      "easyApply": false,
+      "matchScore": 26,
+      "matchReasons": [
+        "1 matching skills: Python"
+      ],
+      "missingSkills": [
+        "React",
+        "AWS",
+        "Docker",
+        "TypeScript"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_7",
+      "title": "Principal AI engineer",
+      "company": "Amazon",
+      "location": "Remote - New york",
+      "description": "We are looking for a talented Principal AI engineer to join Amazon. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 3+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=Remote%20-%20New%20york",
+      "postedAt": "2026-04-22T08:29:42.729Z",
+      "employmentType": "Contract",
+      "experienceLevel": "Director",
+      "industry": "Technology",
+      "skills": [
+        "JavaScript",
+        "Node.js",
+        "MongoDB",
+        "Redis",
+        "GraphQL"
+      ],
+      "salary": "$197k - $155k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 26,
+      "matchReasons": [
+        "1 matching skills: JavaScript"
+      ],
+      "missingSkills": [
+        "Node.js",
+        "MongoDB",
+        "Redis",
+        "GraphQL"
+      ]
+    },
+    {
+      "id": "mock_1776932982729_8",
+      "title": "AI engineer II",
+      "company": "Microsoft",
+      "location": "New york (Remote)",
+      "description": "We are looking for a talented AI engineer II to join Microsoft. You will work on exciting projects that impact millions of users worldwide. This role requires strong technical skills and a passion for innovation.\n\nResponsibilities:\n- Design and implement scalable solutions\n- Collaborate with cross-functional teams\n- Write clean, maintainable code\n- Participate in code reviews\n- Drive technical decisions\n\nRequirements:\n- 6+ years of experience\n- Strong problem-solving skills\n- Experience with modern tech stack\n- Excellent communication skills",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=AI%20engineer&location=New%20york%20(Remote)",
+      "postedAt": "2026-04-18T08:29:42.729Z",
+      "employmentType": "Contract",
+      "experienceLevel": "Mid-Senior",
+      "industry": "Technology",
+      "skills": [
+        "Go",
+        "gRPC",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD"
+      ],
+      "salary": "$172k - $224k",
+      "remote": true,
+      "easyApply": false,
+      "matchScore": 26,
+      "matchReasons": [
+        "1 matching skills: Go"
+      ],
+      "missingSkills": [
+        "gRPC",
+        "Kubernetes",
+        "Terraform",
+        "CI/CD"
+      ]
+    }
+  ]
+}
